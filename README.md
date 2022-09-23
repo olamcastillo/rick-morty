@@ -1,0 +1,1 @@
+#using rick and morty api, to practice api fetch.
